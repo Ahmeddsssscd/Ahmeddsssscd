@@ -84,8 +84,7 @@ I'm always open to discussing:
 - The tech ecosystem in Algeria
 
 **Email** &nbsp;[ceo@waselli.com](mailto:ceo@waselli.com)
-&nbsp;&nbsp;·&nbsp;&nbsp;
-**LinkedIn** &nbsp;[guenaneahmedayoub](https://www.linkedin.com/in/guenaneahmedayoub/)
+
 
 <br/>
 
