@@ -49,35 +49,6 @@ Inventing tech that brings AI into a field that badly needs it.
 - Chasing problems worth solving
 - Still figuring life out — building while I do
 
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=tnskki&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tnskki&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=tnskki&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-
-</div>
-
----
-
-## 🌟 Featured Projects
-
-<!-- Replace REPO_NAME with your actual repository names -->
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tnskki&repo=REPO_NAME&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/tnskki/REPO_NAME)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tnskki&repo=REPO_NAME&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/tnskki/REPO_NAME)
-
-</div>
-
----
 
 ## 💼 Professional Interests
 
